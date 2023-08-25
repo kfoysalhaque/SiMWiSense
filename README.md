@@ -192,3 +192,6 @@ For ```coarse``` test:
 python main.py coarse Classroom m2 Office m3 classroom_m2.h5 242 -ft 
 ```
 <br/>
+
+
+### For any question please contact [Foysal Haque](https://kfoysalhaque.github.io/) at _**haque.k@northeastern.edu**_

@@ -30,7 +30,7 @@ from matplotlib import pyplot as plt
 # Constants
 num_classes = 4
 window_size = 50
-epoch = 3
+epoch = 15
 
 # Argument Parsing
 def parse_arguments():

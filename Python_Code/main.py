@@ -30,7 +30,7 @@ data_proc = "processed_dataset"
 learningrate=0.01
 batchsize=128
 patience=20
-train_epochs = 10
+train_epochs = 15
 # meta finetune phase
 meta_lr = 0.01
 meta_train_epoch = 15

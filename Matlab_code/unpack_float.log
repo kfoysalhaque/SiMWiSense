@@ -1,0 +1,17 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=mex 2021.6.11)  11 JUN 2021 12:46
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**unpack_float.c
+(./unpack_float.c
+This is MeX  Version 1.05  18 XII 1993  (B. Jackowski & M. Ry\'cko)
+! You can't use `macro parameter character #' in vertical mode.
+l.1 #
+     include "mex.h"
+? 
+! Emergency stop.
+l.1 #
+     include "mex.h"
+End of file on the terminal!
+
+No pages of output.

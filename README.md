@@ -177,7 +177,7 @@ python main.py fine_grained Office m1 Classroom m3 Ofc_m1_Cls_m3.h5 242 -ft -tr
 ```
 <br/>
 
-For either coarse or fine_grained test, If you have the saved model ==> ```classroom_m2.h5``` trained in ```Classroom``` ==> station ```m2```, **AND** fine tune with **FREL** for a different environment, for example, ```Office``` with station ```m3```, execute:
+For either coarse or fine_grained test, If you have the saved model ==> ```classroom_m2.h5``` trained in ```Classroom``` ==> station ```m2```, **AND** you want to fine tune with **FREL** for a different environment, for example, ```Office``` with station ```m3```, execute:
 
 For ```fine_grained``` test:
 <br/>

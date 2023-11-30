@@ -21,7 +21,7 @@ If you find the project useful and you use this code, please cite our paper:
 
 (I) clone the repository with ``` git clone git@github.com:kfoysalhaque/SiMWiSense.git ```  <br/>
 (II) ```cd SiMWiSense``` <br/>
-(III) Then download the [SiMWiSense dataset](https://drive.google.com/file/d/1VYuxtIjM5tMCzduyCQrc5L_msXmtJq5U/view?usp=sharing) within the repository. <br/>
+(III) Then download the [SiMWiSense dataset](https://drive.google.com/uc?id=1VYuxtIjM5tMCzduyCQrc5L_msXmtJq5U&export=download) within the repository. <br/>
 (IV) Unzip the downloaded file with ``` sudo unzip Data.zip ``` <br/>
 
 ## SiMWiSense Tests

@@ -26,6 +26,8 @@ If you find the project useful and you use this code, please cite our paper:
 **If you face any difficulty in downloading the dataset, Please click the above link and sign in to your Google account from the directed page. You should be able to download. 
 You can also contact me (haque.k@northeastern.edu) regarding the dataset.**
 
+**You can also get the dataset from [IEEE DataPort](https://ieee-dataport.org/documents/dataset-simultaneous-multi-subject-activity-classification-through-wi-fi-signals).**
+
 (IV) Unzip the downloaded file with ``` sudo unzip Data.zip ``` <br/>
 
 ## SiMWiSense Tests

@@ -1,6 +1,12 @@
 # SiMWiSense
 
-This is the implementation of the paper [SiMWiSense: Simultaneous Multi-Subject Activity Classification Through Wi-Fi Signals](https://ieeexplore.ieee.org/document/10195411). The repository shares both the datasets and the source code of **SiMWiSense.**
+#### This is the implementation of the paper [SiMWiSense: Simultaneous Multi-Subject Activity Classification Through Wi-Fi Signals](https://ieeexplore.ieee.org/document/10195411). The repository shares both the datasets and the source code of **SiMWiSense.**
+
+<p align="center">
+<img src="Images/SiMWiSense-overview.png"
+     alt="Markdown Monster icon" width="600" height="400"
+     style="float: center;" />
+</p>
 
 If you find the project useful and you use this code, please cite our paper:
 
